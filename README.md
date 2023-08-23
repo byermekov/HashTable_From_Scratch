@@ -13,4 +13,11 @@ returns *`“x does not exist”`*.
 
 ## Performance
 
-Please refer to CS3334Proj.pdf file for detailed elaboration on performance evaluation.
+Hashing functions used:
+- Hashing by multiplication
+- Hashing by division
+
+Collision handling:
+- Separate chaining (using linked lists)
+
+Please refer to *`CS3334Proj.pdf`* file in this repo for detailed elaboration on performance evaluation.
