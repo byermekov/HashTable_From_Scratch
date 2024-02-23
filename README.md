@@ -4,7 +4,7 @@
 ## Operations 
 For a hash table **`T`** it is possible to perform following operations:
 
-➕ *`IntertKey(x)`*: inserts the key/entry **`x`** to **`T`**;
+➕ *`InsertKey(x)`*: inserts the key/entry **`x`** to **`T`**;
 
 ➖ *`DeleteKey(x)`*: removes the key/entry **`x`** from **`T`**;
 
